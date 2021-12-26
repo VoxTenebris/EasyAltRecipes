@@ -3,7 +3,8 @@ Keep it simple, ~~stupid~~ silly!
 
 **Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This mod can be described as mild cheaty for some, but a time-saver for others. As you might have guessed from the title, the goal is simplify the alternative recipe ratios.
+This mod can be described as cheat for some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios without diverting too much.
+
 To start using the new recipes, you must complete the milestones through your HUB. There's no need to unlock the original recipes.
 
 **Current modified recipes:**
@@ -18,7 +19,7 @@ To start using the new recipes, you must complete the milestones through your HU
  
 If you find a bug or have an idea for new recipe ratios, please contact me through discord Satisfactory Modding server (VoxTenebris#9999) or raise an issue on GitHub.
 
-See the mod at [ficsit.app](https://ficsit.app/)
+See the mod at [ficsit.app](https://ficsit.app/mod/3uhv2zfATu63Hi)
 
 # Discord Server
 Join the [discord server](https://discord.gg/satisfactorymodding) to talk about Satisfactory Modding in general.
