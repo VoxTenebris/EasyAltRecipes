@@ -3,7 +3,7 @@ Keep it simple, ~~stupid~~ silly!
 
 **Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This mod can be described as cheat for some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios without diverting too much.
+This mod can be described as cheat for some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios without deviating too much.
 
 To start using the new recipes, you must complete the milestones through your HUB. There's no need to unlock the original recipes.
 
