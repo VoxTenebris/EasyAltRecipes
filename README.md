@@ -1,23 +1,40 @@
 # Easy Alternative Recipes
-Keep it simple, ~~stupid~~ silly!
+_Keep it simple, ~~stupid~~ silly!_
 
 **Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This mod can be described as cheat for some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios without deviating too much.
+This mod can be described as cheat by some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios without deviating too much.
 
 To start using the new recipes, you must complete the milestones through your HUB. There's no need to unlock the original recipes.
 
-**Current modified recipes:**
+### **Unlocked at Tier 3**
 
- * Copper Alloy Ingot (T3): Copper Ore (60/m) + Iron Ore (60/m) = Copper Ingot (120/m)
- * Encased Industrial Pipe (T4): Steel Pipe (30/m) + Concrete (20/m) = E.I.B. (5/m)
- * Quickwire Stator (T4): Steel Pipe (30/m) + Quickwire (120/m) = Stator (15/m)
- * Pure Iron Ingot (T5): Iron Ore (30/m) + Water (30/m) = Iron Ingot (60/m)
- * Pure Copper Ingot (T5): Copper Ore (30/m) + Water (30/m) = Copper Ingot (60/m)
- * Recycled Plastic (T5): Rubber (25/m) + Fuel (25/m) = Plastic (50/m)
- * Recycled Rubber (T5): Plastic (25/m) + Fuel (25/m) = Rubber (50/m)
+**Copper Alloy Ingot:**
+![Copper Alloy Ingot](Assets/copper_alloy.png)
+
+### **Unlocked at Tier 4**
+
+**Encased Industrial Pipe:**
+![Encased Industrial Pipe](Assets/eip.png)
+
+**Quickwire Stator:**
+![Quickwire Stator](Assets/stator.png)
+
+### **Unlocked at Tier 5**
+
+**Pure Iron Ingot:**
+![Pure Iron Ingot](Assets/pure_iron.png)
+
+**Pure Copper Ingot:**
+![Pure Copper Ingot](Assets/pure_copper.png)
+
+**Recycled Plastic:**
+![Recycled Plastic](Assets/plastic.png)
+
+**Recycled Rubber:**
+![Recycled Rubber](Assets/rubber.png)
  
-If you find a bug or have an idea for new recipe ratios, please contact me through discord Satisfactory Modding server (VoxTenebris#9999) or raise an issue on GitHub.
+If you find a bug or have an idea for new recipe ratios, please contact me through Satisfactory Modding Discord server (VoxTenebris#9999) or raise an issue on GitHub.
 
 See the mod at [ficsit.app](https://ficsit.app/mod/3uhv2zfATu63Hi)
 
