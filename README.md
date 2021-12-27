@@ -9,6 +9,9 @@ To start using the new recipes, you must complete the milestones through your HU
 
 ### **Unlocked at Tier 3**
 
+**Iron Alloy Ingot:**
+![Iron Alloy Ingot](Assets/iron_alloy.png)
+
 **Copper Alloy Ingot:**
 ![Copper Alloy Ingot](Assets/copper_alloy.png)
 
