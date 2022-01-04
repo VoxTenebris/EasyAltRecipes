@@ -1,46 +1,138 @@
 # Easy Alternative Recipes
 _Keep it simple, ~~stupid~~ silly!_
 
-**Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
+---
 
-This mod can be described as cheat by some, but perhaps a time-saver for others, the aim is to simplify the alternative recipe ratios and efficiency.
+**Beta Warning:** The recipe ratios may change based on feedbacks. Always read the changelogs!
 
-To start using the new recipes, you must complete the milestones through your HUB. There's no need to unlock the original recipes.
+This is an open-source mod that aims to simplify the alternative recipes ratios and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
+
+The mod adds 22 recipes and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+
+If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
+
+---
+### **Unlocked at Tier 1**
+
+**Cast Screw:**
+
+![Cast Screw](Assets/cast_screw.png)
+
+**Iron Wire:**
+
+![Iron Wire](Assets/iron_wire.png)
+
+---
+
+### **Unlocked at Tier 2**
+
+**Copper Rotor:**
+
+![Copper Rotor](Assets/copper_rotor.png)
+
+**Stitched Iron Plate:**
+
+![Stitched Iron Plate](Assets/stitched_ironplate.png)
+
+### **Unlocked at Tier 2: Silica**
+
+**Cheap Silica:**
+
+![Cheap Silica](Assets/cheap_silica.png)
+
+### **Unlocked at Tier 2: Bolted**
+
+**Bolted Iron Plate:**
+
+![Bolted Iron Plate](Assets/bolted_ironplate.png)
+
+**Bolted Frame:**
+
+![Bolted Frame](Assets/bolted_frame.png)
+
+---
 
 ### **Unlocked at Tier 3**
 
 **Iron Alloy Ingot:**
+
 ![Iron Alloy Ingot](Assets/iron_alloy.png)
 
 **Copper Alloy Ingot:**
+
 ![Copper Alloy Ingot](Assets/copper_alloy.png)
+
+### **Unlocked at Tier 3: Refinery**
+
+**Steamed Copper Sheet:**
+
+![Steamed Copper Sheet](Assets/steamed_copper_sheet.png)
+
+**Wet Concrete:**
+
+![Wet Concrete](Assets/wet_concrete.png)
+
+### **Unlocked at Tier 3: Quickwire & Steel**
+
+**Fused Quickwire:**
+
+![Fused Quickwire](Assets/quickwire.png)
+
+**Solid Steel Ingot:**
+
+![Solid Steel Ingot](Assets/solid_steel.png)
+
+---
 
 ### **Unlocked at Tier 4**
 
 **Encased Industrial Pipe:**
-![Encased Industrial Pipe](Assets/eip.png)
+
+![Encased Industrial Pipe](Assets/encased_industrial_pipe.png)
+
+**Steel Screw:**
+
+![Steel Screw](Assets/steel_screw.png)
+
+### **Unlocked at Tier 4: Quickwire Stator**
 
 **Quickwire Stator:**
+
 ![Quickwire Stator](Assets/stator.png)
 
-**Cheap Silica:**
-![Cheap Silica](Assets/silica.png)
 
+---
 ### **Unlocked at Tier 5**
 
-**Pure Iron Ingot:**
-![Pure Iron Ingot](Assets/pure_iron.png)
-
-**Pure Copper Ingot:**
-![Pure Copper Ingot](Assets/pure_copper.png)
-
 **Recycled Plastic:**
+
 ![Recycled Plastic](Assets/plastic.png)
 
 **Recycled Rubber:**
+
 ![Recycled Rubber](Assets/rubber.png)
+
+### **Unlocked at Tier 5: Pure Ingots**
+
+**Pure Iron Ingot:**
+
+![Pure Iron Ingot](Assets/pure_iron.png)
+
+**Pure Copper Ingot:**
+
+![Pure Copper Ingot](Assets/pure_copper.png)
+
+**Pure Caterium Ingot:**
+
+![Pure Caterium Ingot](Assets/pure_caterium.png)
  
-If you find a bug or have an idea for new recipe ratios, please contact me through Satisfactory Modding Discord server (VoxTenebris#9999) or raise an issue on GitHub.
+### **Unlocked at Tier 5: Fuel**
+
+**Diluted Packaged Fuel:**
+
+![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
+
+---
 
 See the mod at [ficsit.app](https://ficsit.app/mod/3uhv2zfATu63Hi)
 
