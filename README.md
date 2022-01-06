@@ -3,11 +3,11 @@ _Keep it simple, ~~stupid~~ silly!_
 
 ---
 
-**Beta Warning:** The recipe ratios may change based on feedbacks. Always read the changelogs!
+**Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This is an open-source mod that aims to simplify the alternative recipes ratios and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
+This is an open-source mod that aims to simplify the alternative recipes and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
 
-The mod adds 22 recipes and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+The mod adds 25 recipes and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
 
 If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
 
@@ -72,15 +72,15 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Wet Concrete](Assets/wet_concrete.png)
 
-### **Unlocked at Tier 3: Quickwire & Steel**
-
-**Fused Quickwire:**
-
-![Fused Quickwire](Assets/quickwire.png)
+### **Unlocked at Tier 3: Steel & Enriched Coal**
 
 **Solid Steel Ingot:**
 
 ![Solid Steel Ingot](Assets/solid_steel.png)
+
+**Compacted Coal:**
+
+![Compacted Coal](Assets/enriched_coal.png)
 
 ---
 
@@ -95,6 +95,10 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 ![Steel Screw](Assets/steel_screw.png)
 
 ### **Unlocked at Tier 4: Quickwire Stator**
+
+**Fused Quickwire:**
+
+![Fused Quickwire](Assets/quickwire.png)
 
 **Quickwire Stator:**
 
@@ -112,6 +116,10 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Recycled Rubber](Assets/rubber.png)
 
+**Diluted Packaged Fuel:**
+
+![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
+
 ### **Unlocked at Tier 5: Pure Ingots**
 
 **Pure Iron Ingot:**
@@ -126,11 +134,15 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Pure Caterium Ingot](Assets/pure_caterium.png)
  
-### **Unlocked at Tier 5: Fuel**
+### **Unlocked at Tier 5: Oil Refinery**
 
-**Diluted Packaged Fuel:**
+**Turbofuel:**
 
-![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
+![Turbofuel](Assets/turbofuel.png)
+
+**Heavy Crude Oil:**
+
+![Heavy Crude Oil](Assets/heavy_crude_oil.png)
 
 ---
 
