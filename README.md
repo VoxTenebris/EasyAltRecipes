@@ -72,7 +72,7 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Wet Concrete](Assets/wet_concrete.png)
 
-### **Unlocked at Tier 3: Steel & Enriched Coal**
+### **Unlocked at Tier 3: Steel & Coal**
 
 **Solid Steel Ingot:**
 
@@ -94,7 +94,7 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Steel Screw](Assets/steel_screw.png)
 
-### **Unlocked at Tier 4: Quickwire Stator**
+### **Unlocked at Tier 4: Quickwire**
 
 **Fused Quickwire:**
 
