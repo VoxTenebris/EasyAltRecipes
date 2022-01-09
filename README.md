@@ -72,6 +72,10 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Wet Concrete](Assets/wet_concrete.png)
 
+**Pure Quartz Crystal:**
+
+![Pure Quartz Crystal](Assets/pure_quartz.png)
+
 ### **Unlocked at Tier 3: Steel & Coal**
 
 **Solid Steel Ingot:**
