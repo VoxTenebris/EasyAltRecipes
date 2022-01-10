@@ -7,7 +7,7 @@ _Keep it simple, ~~stupid~~ silly!_
 
 This is an open-source mod that aims to simplify the alternative recipes and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
 
-The mod adds 25 recipes and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+The mod adds 32 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
 
 If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
 
@@ -124,6 +124,20 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
 
+### **Unlocked at Tier 5: Silicons**
+
+**Insulated Crystal Oscillator:**
+
+![Insulated Crystal Oscillator](Assets/insulated_crystal_oscillator.png)
+
+**Silicon Circuit Board:**
+
+![Silicon Circuit Board](Assets/silicon_circuit_board.png)
+
+**Crystal Computer:**
+
+![Crystal Computer](Assets/crystal_computer.png)
+
 ### **Unlocked at Tier 5: Pure Ingots**
 
 **Pure Iron Ingot:**
@@ -148,12 +162,33 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Heavy Crude Oil](Assets/heavy_crude_oil.png)
 
+### **Unlocked at Tier 5: Heavy Caterium**
+
+**Heavy Encased Frame:**
+
+![Heavy Encased Frame](Assets/heavy_encased_frame.png)
+
+**Caterium Circuit Board:**
+
+![Caterium Circuit Board](Assets/caterium_circuit_board.png)
+
+**Caterium Computer:**
+
+![Caterium Computer](Assets/caterium_computer.png)
+
 ---
 
 See the mod at [ficsit.app](https://ficsit.app/mod/3uhv2zfATu63Hi)
 
 # Discord Server
 Join the [discord server](https://discord.gg/satisfactorymodding) to talk about Satisfactory Modding in general.
+
+# Thanks
+
+* Coffee Stain Studios
+* Mircea and co., which made this mod possible
+* Nogg and Robb for their tree editor
+* [AnthorNet](https://anthor.net/) for the items images on SCIM
 
 # DISCLAIMER
 This software is provided by the author "as is". In no event shall the author be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
