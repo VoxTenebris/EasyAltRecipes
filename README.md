@@ -5,20 +5,20 @@ _Keep it simple, ~~stupid~~ silly!_
 
 **Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This is an open-source mod that aims to simplify the alternate recipes and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
+This is an open-source mod (future-proof maybe?) that aims to simplify the alternate recipes and some late-game vanilla recipes while also increasing their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
 
-The mod adds 40 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+The mod adds 45 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
 
 If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
 
 ---
 ### **Unlocked at Tier 1**
 
-**Cast Screw [Constructor]:**
+**Cast Screw ➔ [Constructor]:**
 
 ![Cast Screw](Assets/cast_screw.png)
 
-**Iron Wire [Constructor]:**
+**Iron Wire ➔ [Constructor]:**
 
 ![Iron Wire](Assets/iron_wire.png)
 
@@ -26,27 +26,27 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ### **Unlocked at Tier 2**
 
-**Copper Rotor [Assembler]:**
+**Copper Rotor ➔ [Assembler]:**
 
 ![Copper Rotor](Assets/copper_rotor.png)
 
-**Stitched Iron Plate [Assembler]:**
+**Stitched Iron Plate ➔ [Assembler]:**
 
 ![Stitched Iron Plate](Assets/stitched_ironplate.png)
 
 ### **Unlocked at Tier 2: Silica**
 
-**Cheap Silica [Assembler]:**
+**Cheap Silica ➔ [Assembler]:**
 
 ![Cheap Silica](Assets/cheap_silica.png)
 
 ### **Unlocked at Tier 2: Bolted**
 
-**Bolted Iron Plate [Assembler]:**
+**Bolted Iron Plat ➔ [Assembler]:**
 
 ![Bolted Iron Plate](Assets/bolted_ironplate.png)
 
-**Bolted Frame [Assembler]:**
+**Bolted Frame ➔ [Assembler]:**
 
 ![Bolted Frame](Assets/bolted_frame.png)
 
@@ -54,35 +54,35 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ### **Unlocked at Tier 3**
 
-**Iron Alloy Ingot [Foundry]:**
+**Iron Alloy Ingot ➔ [Foundry]:**
 
 ![Iron Alloy Ingot](Assets/iron_alloy.png)
 
-**Copper Alloy Ingot [Foundry]:**
+**Copper Alloy Ingot ➔ [Foundry]:**
 
 ![Copper Alloy Ingot](Assets/copper_alloy.png)
 
 ### **Unlocked at Tier 3: Wet Process**
 
-**Steamed Copper Sheet [Refinery]:**
+**Steamed Copper Sheet ➔ [Refinery]:**
 
 ![Steamed Copper Sheet](Assets/steamed_copper_sheet.png)
 
-**Wet Concrete [Refinery]:**
+**Wet Concrete ➔ [Refinery]:**
 
 ![Wet Concrete](Assets/wet_concrete.png)
 
-**Pure Quartz Crystal [Refinery]:**
+**Pure Quartz Crystal ➔ [Refinery]:**
 
 ![Pure Quartz Crystal](Assets/pure_quartz.png)
 
 ### **Unlocked at Tier 3: Steel & Coal**
 
-**Solid Steel Ingot [Foundry]:**
+**Solid Steel Ingot ➔ [Foundry]:**
 
 ![Solid Steel Ingot](Assets/solid_steel.png)
 
-**Compacted Coal [Assembler]:**
+**Compacted Coal ➔ [Assembler]:**
 
 ![Compacted Coal](Assets/enriched_coal.png)
 
@@ -90,21 +90,21 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ### **Unlocked at Tier 4**
 
-**Encased Industrial Pipe [Assembler]:**
+**Encased Industrial Pipe ➔ [Assembler]:**
 
 ![Encased Industrial Pipe](Assets/encased_industrial_pipe.png)
 
-**Steel Screw [Constructor]:**
+**Steel Screw ➔ [Constructor]:**
 
 ![Steel Screw](Assets/steel_screw.png)
 
 ### **Unlocked at Tier 4: Quickwire**
 
-**Fused Quickwire [Assembler]:**
+**Fused Quickwire ➔ [Assembler]:**
 
 ![Fused Quickwire](Assets/quickwire.png)
 
-**Quickwire Stator [Assembler]:**
+**Quickwire Stator ➔ [Assembler]:**
 
 ![Quickwire Stator](Assets/stator.png)
 
@@ -112,107 +112,133 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 ---
 ### **Unlocked at Tier 5**
 
-**Recycled Plastic [Refinery]:**
+**Recycled Plastic ➔ [Refinery]:**
 
 ![Recycled Plastic](Assets/plastic.png)
 
-**Recycled Rubber [Refinery]:**
+**Recycled Rubber ➔ [Refinery]:**
 
 ![Recycled Rubber](Assets/rubber.png)
 
-**Diluted Packaged Fuel [Refinery]:**
+**Diluted Packaged Fuel ➔ [Refinery]:**
 
 ![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
 
 ### **Unlocked at Tier 5: Oil Refinery**
 
-**Turbofuel [Refinery]:**
+**Turbofuel ➔ [Refinery]:**
 
 ![Turbofuel](Assets/turbofuel.png)
 
-**Heavy Crude Oil [Refinery]:**
+**Heavy Crude Oil ➔ [Refinery]:**
 
 ![Heavy Crude Oil](Assets/heavy_crude_oil.png)
 
 ### **Unlocked at Tier 5: Silicons**
 
-**Insulated Crystal Oscillator [Manufacturer]:**
+**Insulated Crystal Oscillator ➔ [Manufacturer]:**
 
 ![Insulated Crystal Oscillator](Assets/insulated_crystal_oscillator.png)
 
-**Silicon Circuit Board [Assembler]:**
+**Silicon Circuit Board ➔ [Assembler]:**
 
 ![Silicon Circuit Board](Assets/silicon_circuit_board.png)
 
-**Crystal Computer [Assembler]:**
+**Crystal Computer ➔ [Assembler]:**
 
 ![Crystal Computer](Assets/crystal_computer.png)
 
 ### **Unlocked at Tier 5: Pure Ingots**
 
-**Pure Iron Ingot [Refinery]:**
+**Pure Iron Ingot ➔ [Refinery]:**
 
 ![Pure Iron Ingot](Assets/pure_iron.png)
 
-**Pure Copper Ingot [Refinery]:**
+**Pure Copper Ingot ➔ [Refinery]:**
 
 ![Pure Copper Ingot](Assets/pure_copper.png)
 
-**Pure Caterium Ingot [Refinery]:**
+**Pure Caterium Ingot ➔ [Refinery]:**
 
 ![Pure Caterium Ingot](Assets/pure_caterium.png)
 
 ### **Unlocked at Tier 5: Heavy Caterium**
 
-**Heavy Encased Frame [Manufacturer]:**
+**Heavy Encased Frame ➔ [Manufacturer]:**
 
 ![Heavy Encased Frame](Assets/heavy_encased_frame.png)
 
-**Caterium Circuit Board [Assembler]:**
+**Caterium Circuit Board ➔ [Assembler]:**
 
 ![Caterium Circuit Board](Assets/caterium_circuit_board.png)
 
-**Caterium Computer [Manufacturer]:**
+**Caterium Computer ➔ [Manufacturer]:**
 
 ![Caterium Computer](Assets/caterium_computer.png)
 
 ### **Unlocked at Tier 5: Advanced Computer**
 
-**High-Speed Connector [Manufacturer]:**
+**High-Speed Connector ➔ [Manufacturer]:**
 
 ![High-Speed Connector](Assets/hs_connector.png)
 
-**Silicon High-Speed Connector [Manufacturer]:**
+**Silicon High-Speed Connector ➔ [Manufacturer]:**
 
 ![Silicon High-Speed Connector](Assets/silicon_hs_connector.png)
 
-**Supercomputer [Manufacturer]:**
+**Supercomputer ➔ [Manufacturer]:**
 
 ![Supercomputer](Assets/supercomputer.png)
 
 ### **Unlocked at Tier 7: Alumina Refinery**
 
-**Sloppy Alumina [Refinery]:**
+**Sloppy Alumina ➔ [Refinery]:**
 
 ![Sloppy Alumina](Assets/sloppy_alumina.png)
 
-**Electrode - Aluminum Scrap [Refinery]:**
+**Electrode - Aluminum Scrap ➔ [Refinery]:**
 
 ![Electrode - Aluminum Scrap](Assets/electrode_aluminum_scrap.png)
 
-### **Unlocked at Tier 7: Aluminium Smelting**
+### **Unlocked at Tier 7: Aluminum Smelting**
 
-**Aluminum Alloy Ingot [Foundry]:**
+**Aluminum Alloy Ingot ➔ [Foundry]:**
 
 ![Aluminum Alloy Ingot](Assets/aluminum_alloy.png)
 
-**Alclad Casing [Assembler]:**
+**Alclad Casing ➔ [Assembler]:**
 
 ![Alclad Casing](Assets/alclad_casing.png)
 
-**Alclad Aluminum Sheet [Assembler]:**
+**Alclad Aluminum Sheet ➔ [Assembler]:**
 
 ![Alclad Aluminum Sheet](Assets/alclad_aluminum_sheet.png)
+
+### **Unlocked at Tier 7: Radio Control**
+
+**Radio Control Unit ➔ [Manufacturer]:**
+
+![Radio Control Unit](Assets/radio_control_unit.png)
+
+**Radio Control System ➔ [Manufacturer]:**
+
+![Radio Control System](Assets/radio_control_system.png)
+
+### **Unlocked at Tier 7: Turbo Blend Fuel**
+
+**Turbo Blend Fuel ➔ [Blender]:**
+
+![Turbo Blend Fuel](Assets/turbo_blend_fuel.png)
+
+### **Unlocked at Tier 7: Sulfur Battery**
+
+**Sulfuric Acid ➔ [Refinery]:**
+
+![Sulfuric Acid](Assets/sulfuric_acid.png)
+
+**Classic Battery ➔ [Manufacturer]:**
+
+![Classic Battery](Assets/classic_battery.png)
 
 ---
 
