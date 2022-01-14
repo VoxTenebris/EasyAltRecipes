@@ -5,9 +5,9 @@ _Keep it simple, ~~stupid~~ silly!_
 
 **Beta Warning:** The recipe ratios may change based on feedback. Always read the changelogs!
 
-This is an open-source mod that aims to simplify the alternative recipes and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
+This is an open-source mod that aims to simplify the alternate recipes and boost their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
 
-The mod adds 32 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+The mod adds 40 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
 
 If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
 
@@ -124,6 +124,16 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Diluted Packaged Fuel](Assets/diluted_packaged_fuel.png)
 
+### **Unlocked at Tier 5: Oil Refinery**
+
+**Turbofuel:**
+
+![Turbofuel](Assets/turbofuel.png)
+
+**Heavy Crude Oil:**
+
+![Heavy Crude Oil](Assets/heavy_crude_oil.png)
+
 ### **Unlocked at Tier 5: Silicons**
 
 **Insulated Crystal Oscillator:**
@@ -151,16 +161,6 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 **Pure Caterium Ingot:**
 
 ![Pure Caterium Ingot](Assets/pure_caterium.png)
- 
-### **Unlocked at Tier 5: Oil Refinery**
-
-**Turbofuel:**
-
-![Turbofuel](Assets/turbofuel.png)
-
-**Heavy Crude Oil:**
-
-![Heavy Crude Oil](Assets/heavy_crude_oil.png)
 
 ### **Unlocked at Tier 5: Heavy Caterium**
 
@@ -176,6 +176,44 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Caterium Computer](Assets/caterium_computer.png)
 
+### **Unlocked at Tier 5: Advanced Computer**
+
+**High-Speed Connector:**
+
+![High-Speed Connector](Assets/hs_connector.png)
+
+**Silicon High-Speed Connector:**
+
+![Silicon High-Speed Connector](Assets/silicon_hs_connector.png)
+
+**Supercomputer:**
+
+![Supercomputer](Assets/supercomputer.png)
+
+### **Unlocked at Tier 7: Alumina Refinery**
+
+**Sloppy Alumina:**
+
+![Sloppy Alumina](Assets/sloppy_alumina.png)
+
+**Electrode - Aluminum Scrap:**
+
+![Electrode - Aluminum Scrap](Assets/electrode_aluminum_scrap.png)
+
+### **Unlocked at Tier 7: Aluminium Smelting**
+
+**Aluminum Alloy Ingot:**
+
+![Aluminum Alloy Ingot](Assets/aluminum_alloy.png)
+
+**Alclad Casing:**
+
+![Alclad Casing](Assets/alclad_casing.png)
+
+**Alclad Aluminum Sheet:**
+
+![Alclad Aluminum Sheet](Assets/alclad_aluminum_sheet.png)
+
 ---
 
 See the mod at [ficsit.app](https://ficsit.app/mod/3uhv2zfATu63Hi)
@@ -189,6 +227,7 @@ Join the [discord server](https://discord.gg/satisfactorymodding) to talk about 
 * Mircea and co., which made this mod possible
 * Nogg and Robb for their tree editor
 * [AnthorNet](https://anthor.net/) for the items images on SCIM
+* [Smashicons](https://www.flaticon.com/authors/smashicons) for the logo and in-game icon
 
 # DISCLAIMER
 This software is provided by the author "as is". In no event shall the author be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
