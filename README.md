@@ -7,11 +7,16 @@ _Keep it simple, ~~stupid~~ silly!_
 
 This is an open-source mod (future-proof maybe?) that aims to simplify the alternate recipes and some late-game vanilla recipes while also increasing their efficiency. It can be described as a cheat mod by some, but perhaps it's a time-saver for others.
 
-The mod adds 45 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+The mod adds 59 recipes, and to use it, a new research tree will be available in MAM, in which you must unlock its nodes. There's no requirement to have the original recipes.
+
+**Available chat commands:**
+ * `/easyalt_unlock` Unlocks all nodes in the research tree
+ * `/easyalt_aluminum` Unlocks a recipe to produce Aluminum Ingots directly from Bauxite
 
 If you find a bug or have an idea for new recipes, please contact me through [Satisfactory Modding](https://discord.gg/satisfactorymodding) Discord server (**VoxTenebris#9999**) or raise an issue on [GitHub](https://github.com/VoxTenebris/EasyAltRecipes/issues "GitHub Issue Page").
 
 ---
+
 ### **Unlocked at Tier 1**
 
 **Cast Screw ➔ [Constructor]:**
@@ -42,7 +47,7 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ### **Unlocked at Tier 2: Bolted**
 
-**Bolted Iron Plat ➔ [Assembler]:**
+**Bolted Iron Plate ➔ [Assembler]:**
 
 ![Bolted Iron Plate](Assets/bolted_ironplate.png)
 
@@ -78,6 +83,10 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ### **Unlocked at Tier 3: Steel & Coal**
 
+**Steeled Frame ➔ [Assembler]:**
+
+![Steeled Frame](Assets/steeled_frame.png)
+
 **Solid Steel Ingot ➔ [Foundry]:**
 
 ![Solid Steel Ingot](Assets/solid_steel.png)
@@ -108,8 +117,12 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Quickwire Stator](Assets/stator.png)
 
+**AI Limiter ➔ [Assembler]:**
+
+![AI Limiter](Assets/ai_limiter.png)
 
 ---
+
 ### **Unlocked at Tier 5**
 
 **Recycled Plastic ➔ [Refinery]:**
@@ -176,19 +189,21 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Caterium Computer](Assets/caterium_computer.png)
 
-### **Unlocked at Tier 5: Advanced Computer**
+### **Unlocked at Tier 5: High-Speed Computer**
 
 **High-Speed Connector ➔ [Manufacturer]:**
 
 ![High-Speed Connector](Assets/hs_connector.png)
 
+**Supercomputer ➔ [Manufacturer]:**
+
+![Supercomputer](Assets/supercomputer.png)
+
 **Silicon High-Speed Connector ➔ [Manufacturer]:**
 
 ![Silicon High-Speed Connector](Assets/silicon_hs_connector.png)
 
-**Supercomputer ➔ [Manufacturer]:**
-
-![Supercomputer](Assets/supercomputer.png)
+---
 
 ### **Unlocked at Tier 7: Alumina Refinery**
 
@@ -224,7 +239,7 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 
 ![Radio Control System](Assets/radio_control_system.png)
 
-### **Unlocked at Tier 7: Turbo Blend Fuel**
+### **Unlocked at Tier 7: Blended Turbofuel**
 
 **Turbo Blend Fuel ➔ [Blender]:**
 
@@ -239,6 +254,76 @@ If you find a bug or have an idea for new recipes, please contact me through [Sa
 **Classic Battery ➔ [Manufacturer]:**
 
 ![Classic Battery](Assets/classic_battery.png)
+
+---
+
+### **Unlocked at Tier 8: Heat Sink**
+
+**Heat Sink ➔ [Assembler]:**
+
+![Heat Sink](Assets/heat_sink.png)
+
+**Fused Modular Frame ➔ [Blender]:**
+
+![Fused Modular Frame](Assets/fused_modular_frame.png)
+
+### **Unlocked at Tier 8: Turbo Computer**
+
+**Turbo Motor ➔ [Manufacturer]:**
+
+![Turbo Motor](Assets/turbo_motor.png)
+
+**Super-State Computer ➔ [Manufacturer]:**
+
+![Super-State Computer](Assets/super_state_computer.png)
+
+### **Unlocked at Tier 8: Cool Radio**
+
+**Cooling System ➔ [Blender]:**
+
+![Cooling System](Assets/cooling_system.png)
+
+**Radio Connection Unit ➔ [Manufacturer]:**
+
+![Radio Connection Unit](Assets/radio_connection_unit.png)
+
+### **Unlocked at Tier 8: Control Rods**
+
+**Electromagnetic Control Rod ➔ [Assembler]:**
+
+![Electromagnetic Control Rod](Assets/electromagnetic_control_rod.png)
+
+**Electromagnetic Connection Rod ➔ [Assembler]:**
+
+![Electromagnetic Connection Rod](Assets/electromagnetic_connection_rod.png)
+
+### **Unlocked at Tier 8: Turbo Frame**
+
+**Turbo Electric Motor ➔ [Manufacturer]:**
+
+![Turbo Electric Motor](Assets/turbo_electric_motor.png)
+
+**Heat-Fused Frame ➔ [Blender]:**
+
+![Heat-Fused Frame](Assets/heat_fused_frame.png)
+
+### **Unlocked at Tier 8: Cool Motor**
+
+**Cooling Device ➔ [Blender]:**
+
+![Cooling Device](Assets/cooling_device.png)
+
+**Turbo Pressure Motor ➔ [Manufacturer]:**
+
+![Turbo Pressure Motor](Assets/turbo_pressure_motor.png)
+
+---
+
+### **Unlocked only via chat command**
+
+**Skip: Aluminum Ingot ➔ [Smelter]:** `/easyalt_aluminum`
+
+![Skip: Aluminum Ingot](Assets/skip_aluminum.png)
 
 ---
 
